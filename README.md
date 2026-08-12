@@ -1,4 +1,4 @@
-# Pulse
+# Prod-tracker
 
 A personal productivity and life-tracking app for iOS. Log your mood, build habit stacks, capture quick thoughts, and track projects — with GitHub, Vercel, and GoDaddy integrations for developers.
 
